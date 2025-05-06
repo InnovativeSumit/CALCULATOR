@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6f7cb97-3d2f-450c-89ef-5be9e58b7119)# 🧮 Modern Web Calculator
+# 🧮 Modern Web Calculator
 
 A sleek, **fully responsive calculator** application built using **pure HTML, CSS, and JavaScript**, replicating core physical calculator functions with enhanced digital features and a modern UI.
 
@@ -9,8 +9,8 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 ## 🚀 Live Demo
 
-🔗 [Try it Live](https://innovativesumit.github.io/CALCULATOR/)  
-*(Replace with your actual GitHub Pages link)*
+🔗 [Try it Live]()  
+*(https://innovativesumit.github.io/CALCULATOR/)*
 
 ---
 
