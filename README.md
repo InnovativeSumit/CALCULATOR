@@ -7,13 +7,13 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 ---
 
-## 🚀 Live Demo
+### 🚀 Live Demo
 
 🔗 Try it Live:- https://innovativesumit.github.io/CALCULATOR/
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 ### 🔹 HTML5
 - Semantic and accessible structure
@@ -33,7 +33,7 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 ---
 
-## ✨ Key Features
+### ✨ Key Features
 
 ### 🎨 Dual Theme System
 - Toggle between **Light** and **Dark** mode
@@ -57,7 +57,7 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 ---
 
-## 🎨 Design Highlights
+### 🎨 Design Highlights
 
 - Neumorphic **button design**
 - **Gradient** background
@@ -67,7 +67,7 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 ---
 
-## 💡 How It Works
+### 💡 How It Works
 
 The calculator uses a **custom arithmetic parser** (not `eval()`!) to securely compute input expressions. The UI dynamically reflects current inputs and outputs, while maintaining calculation **history**.
 
