@@ -9,8 +9,7 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 ## 🚀 Live Demo
 
-🔗 [Try it Live]()  
-*(https://innovativesumit.github.io/CALCULATOR/)*
+🔗 Try it Live:- https://innovativesumit.github.io/CALCULATOR/
 
 ---
 
@@ -81,5 +80,4 @@ The calculator uses a **custom arithmetic parser** (not `eval()`!) to securely c
 - Creating **responsive layouts**
 - Building **theme-switchable UIs**
 
----
 
