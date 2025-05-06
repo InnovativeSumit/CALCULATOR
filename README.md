@@ -64,10 +64,6 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 The calculator uses a **custom arithmetic parser** (not `eval()`!) to securely compute input expressions. The UI dynamically reflects current inputs and outputs, while maintaining calculation **history**.
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
 ### 🧑‍💻 Perfect For
 
 - Practicing **DOM manipulation**
@@ -75,4 +71,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Creating **responsive layouts**
 - Building **theme-switchable UIs**
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
