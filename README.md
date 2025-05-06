@@ -73,7 +73,7 @@ The calculator uses a **custom arithmetic parser** (not `eval()`!) to securely c
 
 ---
 
-## 🧑‍💻 Perfect For
+### 🧑‍💻 Perfect For
 
 - Practicing **DOM manipulation**
 - Implementing **safe calculator logic**
