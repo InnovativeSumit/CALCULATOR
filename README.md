@@ -8,7 +8,7 @@ A sleek, **fully responsive calculator** application built using **pure HTML, CS
 
 ## 🚀 Live Demo
 
-🔗 Try it Live:- https://innovativesumit.github.io/CALCULATOR/
+🔗 Try it Live:- [CALCULATOR](https://innovativesumit.github.io/CALCULATOR/)
 
 
 ## 🛠️ Technologies Used
